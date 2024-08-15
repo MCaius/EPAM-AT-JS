@@ -2,4 +2,4 @@ hello!
 
 We are here.
 
-Another line added
+Another line added.
